@@ -21,8 +21,8 @@ import ro.utcn.danf.a1.service.UserManagementService;
 import java.util.Calendar;
 import java.util.List;
 
-//@RunWith(SpringRunner.class)
-//@SpringBootTest
+@RunWith(SpringRunner.class)
+@SpringBootTest
 public class A1ApplicationTests {
 
 	private static RepositoryFactory createMockedUserFactory() {
